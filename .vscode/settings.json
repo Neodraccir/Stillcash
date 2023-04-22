@@ -1,0 +1,5 @@
+{
+    "rust-client.enable": true,
+    "rust-client.rustupPath": "/Users/joellebonte/.cargo/bin/rustup",
+    "rust-client.cargoPath": "/Users/joellebonte/.cargo/bin/cargo"
+}

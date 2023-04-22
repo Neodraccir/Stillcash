@@ -1,0 +1,1 @@
+/Users/joellebonte/Documents/Fotos/Privat/Riccardo/Coding\ Projects/Innovative\ Currency/Stillcash/target/debug/stillcash: /Users/joellebonte/Documents/Fotos/Privat/Riccardo/Coding\ Projects/Innovative\ Currency/Stillcash/src/main.rs
